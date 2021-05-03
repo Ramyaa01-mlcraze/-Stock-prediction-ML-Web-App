@@ -73,7 +73,7 @@ if (sl.checkbox("Select Stock")):
             sl.dataframe(basicInfo)
             sl.markdown("*Bar graph*")
             sl.bar_chart(basicInfo)
-        sl.video('Analysis.mp4')
+       
         from sklearn.ensemble import RandomForestRegressor
 
         X = df.iloc[:, 0].values
