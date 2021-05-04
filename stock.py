@@ -6,7 +6,7 @@ sl.header("Ever wondered whether to buy a stock or not !")
 sl.subheader(
     "Look at the Stocks to see how they perform and guess what you have an option to play with this wonderful model by yourself"
 )
-sl.info("As of now this app runs only with HDFC,GoldmanSachs and Apple stocks and further devlopements are being made")
+sl.info("As of now this app runs only with five different stocks and further devlopements are being made")
 
 Stocklist = ['HDFC', 'GoldmanSachs', 'Apple', 'Amazon', 'Facebook']
 
