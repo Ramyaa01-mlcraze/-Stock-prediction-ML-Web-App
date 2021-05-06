@@ -11,3 +11,6 @@ After that navigate into the directory and run streamlit run streamlit_app.py
 
 [Local app ]localhost
 It will be running in your network url as well
+
+Demo:
+https://share.streamlit.io/ramyaa01-mlcraze/-stock-prediction-ml-web-app/main/stock.py
